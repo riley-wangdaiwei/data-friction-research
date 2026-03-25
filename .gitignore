@@ -19,5 +19,6 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
-02_Raw/*
-!02_Raw/.gitkeep
+Raw/*
+!Raw/.gitkeep
+!Raw/vendor-data-2026-03-25.csv
