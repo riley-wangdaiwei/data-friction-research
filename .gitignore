@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Large/Temporary data formats
+*.har
+*.log
+*.tmp
+*.bak
+02_Raw/*
+!02_Raw/.gitkeep
